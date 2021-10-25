@@ -1,1 +1,7 @@
+/venv2
+/__pycache__
+/_backup
+/data/portfolio.db
 test.ipynb
+test.py
+settings.ini
